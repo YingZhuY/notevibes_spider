@@ -1,0 +1,4 @@
+pyttsx3==2.90
+selenium==3.141.0
+lxml==4.3.4
+Requests==2.25.1
